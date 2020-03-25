@@ -4,7 +4,7 @@
 ### en
 
 ## Introduction
-To use this API, you can use [api covid-catalog] (http://api.covid-catalo.ga/) where it is possible to connect and obtain all data by GET parameters. The data is mirrored in [Tracking Coronavirus COVID-19] (https://app.developer.here.com/coronavirus/) where it is possible to obtain contamination, dead and recovered data from around the world.
+To use this API, you can use [api covid-catalog](http://api.covid-catalo.ga/) where it is possible to connect and obtain all data by GET parameters. The data is mirrored in [Tracking Coronavirus COVID-19] (https://app.developer.here.com/coronavirus/) where it is possible to obtain contamination, dead and recovered data from around the world.
 
 ## Getting countries
 
